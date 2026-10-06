@@ -18,5 +18,10 @@ flutter run -t lib/homepage.dart
 
 This command runs the selected Dart file directly on the emulator.
 
+#Day-2:
+ResponsiveDesign
+<img width="151" height="317" alt="image" src="https://github.com/user-attachments/assets/95712938-6f90-4a1f-b9a3-5049330afbef" />
+
+
 
 
